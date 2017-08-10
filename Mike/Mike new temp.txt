@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 fdskl;fkdsl;fds
 
 fqrefef
@@ -10,3 +11,6 @@ qqerfqrefq
 erfqrfqre
 qerfqerfqef
 qerqfrefq
+=======
+Hello Michael!
+>>>>>>> 4e527586ca1b07c885871a1e7d4bc46cb171d2bf
